@@ -1,0 +1,5 @@
+{
+  "name": "Tienda E-Commerce Bolivia",
+  "description": "Un sistema completo de e-commerce minimalista con panel de administración, gestión de pedidos y seguimiento vía WhatsApp.",
+  "requestFramePermissions": []
+}
