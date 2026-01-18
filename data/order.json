@@ -1,0 +1,36 @@
+
+[
+  {
+    "id": "PED-723A",
+    "customerName": "Maria Rodriguez",
+    "customerWhatsApp": "59170123456",
+    "productId": "prod1",
+    "productName": "Smartphone Galaxy S23",
+    "quantity": 1,
+    "total": 4500,
+    "status": "entregado",
+    "createdAt": "2023-11-20T14:30:00Z"
+  },
+  {
+    "id": "PED-910B",
+    "customerName": "Carlos Flores",
+    "customerWhatsApp": "59160554433",
+    "productId": "prod3",
+    "productName": "Smartwatch Titanium Ultra",
+    "quantity": 2,
+    "total": 1840,
+    "status": "en_camino",
+    "createdAt": "2023-11-24T09:15:00Z"
+  },
+  {
+    "id": "PED-112C",
+    "customerName": "Ana Belén",
+    "customerWhatsApp": "59177889900",
+    "productId": "prod4",
+    "productName": "Chaqueta Cuero Minimalist",
+    "quantity": 1,
+    "total": 450,
+    "status": "en_espera",
+    "createdAt": "2023-11-25T18:45:00Z"
+  }
+]

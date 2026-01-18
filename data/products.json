@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": "prod1",
+    "name": "Smartphone Galaxy S23",
+    "description": "Cámara de 50MP, pantalla Dynamic AMOLED 2X, procesador Snapdragon 8 Gen 2. El equilibrio perfecto entre potencia y diseño.",
+    "price": 4500,
+    "stock": 8,
+    "categoryId": "cat1",
+    "imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "prod2",
+    "name": "Cafetera Expresso Pro V2",
+    "description": "Presión de 15 bares, espumador de leche integrado. Disfruta de un café estilo barista en casa.",
+    "price": 1350,
+    "stock": 4,
+    "categoryId": "cat2",
+    "imageUrl": "https://images.unsplash.com/photo-1510972527921-ce03766a1cf1?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "prod3",
+    "name": "Smartwatch Titanium Ultra",
+    "description": "Resistente al agua 50m, GPS integrado, sensor de oxígeno en sangre y batería de 10 días.",
+    "price": 920,
+    "stock": 12,
+    "categoryId": "cat1",
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "prod4",
+    "name": "Chaqueta Cuero Minimalist",
+    "description": "Cuero sintético de alta calidad, corte slim-fit, disponible en color negro mate.",
+    "price": 450,
+    "stock": 15,
+    "categoryId": "cat3",
+    "imageUrl": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5bab3?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "prod5",
+    "name": "Set de Pesas Ajustables",
+    "description": "Pesas de 2kg a 10kg, agarre antideslizante. Ideal para entrenamiento funcional en casa.",
+    "price": 580,
+    "stock": 6,
+    "categoryId": "cat4",
+    "imageUrl": "https://images.unsplash.com/photo-1638536532686-d610adfc8e5c?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "prod6",
+    "name": "Audífonos Noise Cancelling Z1",
+    "description": "Cancelación activa de ruido, 40 horas de batería, sonido Hi-Res inalámbrico.",
+    "price": 1100,
+    "stock": 10,
+    "categoryId": "cat1",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "prod7",
+    "name": "Perfume Azure For Men",
+    "description": "Fragancia cítrica con notas de sándalo y cedro. Larga duración 12h+.",
+    "price": 380,
+    "stock": 20,
+    "categoryId": "cat5",
+    "imageUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "prod8",
+    "name": "Air Fryer 5L XL",
+    "description": "Cocción sin aceite, panel táctil digital con 8 programas preestablecidos.",
+    "price": 890,
+    "stock": 0,
+    "categoryId": "cat2",
+    "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&q=80&w=400"
+  }
+]
